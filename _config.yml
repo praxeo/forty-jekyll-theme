@@ -1,7 +1,7 @@
 # site settings
 title: Benjamin J. Thompson 
 subtitle: Technical Writing
-email: hire@benjaminjthompson.com
+email: bjt@rabidquill.com
 description: Documentation and sales copy for your software projects and electronic devices. The better your customers know your product, the better it sells.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
